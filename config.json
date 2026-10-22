@@ -1,6 +1,6 @@
 {
 	"head": {
-		"title": "三水的个人主页",
+		"title": "星星的个人主页",
 		"description": "Author:Star Sky,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
@@ -26,7 +26,7 @@
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://blog.starsky.uno/about",
 				"icon": "xiaolian",
 				"text": "About"
 			},
